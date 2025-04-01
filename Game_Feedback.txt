@@ -1,0 +1,12 @@
+GameID,Rating,Comments
+cod01,5,Excellent game!
+fifa01,4,Good but could be better.
+apxl01,3,Average experience.
+des201,2,Not very engaging.
+nms01,1,Lots of potential.
+cod01,3,Not a good communitee
+fifa01,5,Absolutely amazing!
+drg01,5,Very cool and silly game! ROCK AND STONE!
+yomi01,5,"Cool game, very difficult though !"
+yomi01,2,Nothing was explained :(
+hlkt01,5,Beautiful game !

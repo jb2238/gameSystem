@@ -1,0 +1,21 @@
+ID,Platform,Genre,Title,Publisher,PurchaseDate
+cod01,ps5,action,Call of Duty,treyarch,12-4-2015
+apxl01,pc,action,Apex Legends,respawn, 3-5-2017
+prtl02,pc,puzzle,Portal 2,valve,17-3-2012
+rktl01,ps5,sport,Rocket League,psyonix,23-8-2016
+hmff01,xbox,puzzle,Human Fall Flat,no brakes,1-10-2020
+fifa01,ps5,sport,Fifa 22,ea,1-1-2022
+ttfl02,pc,action,Titanfall 2,respawn,16-10-2016
+hlkt01,ps5,platformer,Hollowknight,team cherry,23-6-2017
+amgs01,pc,puzzle,Among Us,innersloth,4-6-2018
+mcft01,pc,sandbox,Minecraft,mojang,12-3-2010
+lgsw02,xbox,story,Lego Star Wars,tt games,6-11-2005
+tmrd01,ps5,story,Tomb Raider,square enix,4-3-2018
+yomi01,pc,fighting,YOMI Hustle,dylan,5-6-2022
+ror2,pc,roguelike,Risk Of Rain 2,hopoo,21-3-2018
+nms01,ps5,sandbox,No Man's Sky,hello,4-6-2016
+soth01,xbox,sandbox,Sea Of Thieves,xbox studios,3-21-2018
+des201,pc,looter,Destiny 2,bungie,4-5-2014
+drg01,pc,looter,Deep Rock Galactic,ghost ship,24-9-2020
+slts01,pc,roguelike,Slay the Spire,mega crit,5-11-2019
+lcmp01,pc,roguelike,Lethal Company,zeekers,8-8-2023
